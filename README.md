@@ -1,4 +1,4 @@
-# to-do
+# To-Do Galvones! Go Horse!
 Checklist of my Study/Projects 
 
 ## Projects List
