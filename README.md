@@ -14,4 +14,8 @@ Checklist of my Study/Projects
 - [ ] WebSchool.io/NodeJS
 - [ ] WebSchool.io/Express
 - [ ] WebSchool.io/AngularJS
+- [ ] Clean Code
 
+
+#Clean Code
+- https://refactoring.guru/
